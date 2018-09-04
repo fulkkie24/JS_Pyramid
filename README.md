@@ -1,2 +1,2 @@
 # My JS_Pyramid 
-#### Flike
+#### Fluke
